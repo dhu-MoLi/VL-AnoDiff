@@ -31,7 +31,7 @@ Built on the [AnoGen](https://github.com/csgaobb/AnoGen) (ECCV 2024) diffusion b
 <p align="center">
   <img src="examples/fig2_framework.png" width="900" alt="VL-AnoDiff overall framework"/>
   <br>
-  <em>Figure 2. Overview of VL-AnoDiff. A locally deployed VLM extracts semantic anchors and guides mask synthesis; SAR regularizes text inversion; a pretrained LDM performs mask-guided inpainting.</em>
+  <em>Figure 2. VL-AnoDiff model framework. A locally deployed VLM extracts semantic anchors and guides mask synthesis; SAR regularizes text inversion; a pretrained LDM performs mask-guided inpainting.</em>
 </p>
 
 | Component | Module | Description |
