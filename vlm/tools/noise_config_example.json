@@ -1,0 +1,13 @@
+{
+    "noise_levels": [0.1, 0.2, 0.3, 0.4, 0.5],
+    "noise_rounds": [1, 2, 3, 4, 5],
+    "noise_type": "gaussian",
+    "gaussian_std": 0.1,
+    "preserve_original": true,
+    "image_formats": [".jpg", ".jpeg", ".png", ".bmp", ".tiff"],
+    "output_format": ".png",
+    "naming_convention": "paper_style",
+    "create_comparison": true,
+    "comparison_grid_size": [2, 3]
+}
+

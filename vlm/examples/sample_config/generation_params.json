@@ -1,0 +1,14 @@
+{
+  "data_root": "visa_train_data_balanced",
+  "mask_dir": "visa_train_data_balanced",
+  "image_size": [
+    256,
+    256
+  ],
+  "num_simple": 500,
+  "num_complex": 500,
+  "selected_sample": "pipe_fryum",
+  "selected_defect": null,
+  "dataset": "visa",
+  "timestamp": "2025-06-04 16:59:36"
+}

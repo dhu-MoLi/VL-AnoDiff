@@ -1,0 +1,39 @@
+# Model weights (download separately)
+models/*
+!models/.gitkeep
+
+# Datasets (download separately)
+datasets/
+*_train_data*/
+visa_train_data*/
+
+# Generated outputs
+masks_*/
+prompts_*/
+output/
+llm_guided_masks/
+diffusion_prompts/
+*.zip
+
+# Runtime caches
+llm_cache/
+prompt_cache/
+__pycache__/
+*.pyc
+*.pyo
+.pytest_cache/
+
+# IDE / OS
+.idea/
+.vscode/
+.DS_Store
+*.swp
+
+# Large binary files
+*.pt
+*.pth
+*.bin
+*.safetensors
+
+# Logs and temp
+temp/

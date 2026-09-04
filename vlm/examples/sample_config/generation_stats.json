@@ -1,0 +1,9 @@
+{
+  "total_simple": 338,
+  "total_complex": 330,
+  "total_categories": 1,
+  "failed_categories": [
+    "pipe_fryum/anomaly"
+  ],
+  "total_time": 5.902148723602295
+}
