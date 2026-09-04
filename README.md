@@ -1,34 +1,51 @@
 # VL-AnoDiff: Vision-Language Guided Diffusion for Few-Shot Industrial Anomaly Synthesis
 
-Mo Li, Shubo Zhou, Weiyu Hu, Xue-Qin Jiang, Yongbin Gao
+**Mo Li**, **Shubo Zhou**, **Weiyu Hu**, **Xue-Qin Jiang**, **Yongbin Gao**
 
-**IEEE ICASSP 2026** | DOI: [10.1109/ICASSP55912.2026.11461878](https://doi.org/10.1109/icassp55912.2026.11461878)
+Donghua University · Shanghai University of Engineering Science
 
----
-
-## Overview
-
-**VL-AnoDiff** is a vision-language guided diffusion framework for few-shot industrial anomaly synthesis. Given only a few anomalous image–mask pairs, it generates high-fidelity, semantically controllable anomaly–mask pairs for downstream inspection tasks.
-
-> **Note:** This project is built upon [AnoGen](https://github.com/csgaobb/AnoGen) (ECCV 2024) as the **baseline** diffusion backbone. Our contributions — **Semantic Anchor Regularization (SAR)** and **Semantically Aligned Mask Synthesis (SAMS)** — extend the baseline with vision-language guidance.
-
-<p align="center">
-  <img src="examples/fig1_comparison.png" width="860" alt="Comparison with AnoDiff and AnoGen baselines"/>
-</p>
-
-<p align="center">
-  <img src="examples/fig2_framework.png" width="860" alt="VL-AnoDiff framework"/>
-</p>
+[![Paper](https://img.shields.io/badge/Paper-IEEE%20ICASSP%202026-blue)](https://doi.org/10.1109/icassp55912.2026.11461878)
+[![License](https://img.shields.io/badge/License-TBD-lightgrey)](#license)
 
 ---
 
-## Key Contributions
+## Abstract
 
-| Module | Paper Name | Code Location | Description |
-|--------|-----------|---------------|-------------|
-| **SAR** | Semantic Anchor Regularization | [`diffusion/`](diffusion/) | Aligns learnable embeddings with VLM-derived semantic anchors during text inversion |
-| **SAMS** | Semantically Aligned Mask Synthesis | [`vlm/mask_generation.py`](vlm/mask_generation.py) | Generates diverse, semantically meaningful masks without bounding-box supervision |
-| **VLM Prompts** | Auxiliary Semantic Anchor Generation | [`vlm/prompt_generation.py`](vlm/prompt_generation.py) | Qwen2.5-VL analyzes defects and produces diffusion prompts |
+Acquiring large-scale annotated defect data is costly in industrial inspection. **VL-AnoDiff** is a vision-language guided diffusion framework for **few-shot industrial anomaly synthesis**. From only a few anomalous image–mask pairs, it produces realistic, diverse, and semantically controllable synthetic anomalies for downstream detection and classification.
+
+Built on the [AnoGen](https://github.com/csgaobb/AnoGen) (ECCV 2024) diffusion baseline, VL-AnoDiff introduces:
+
+- **Semantic Anchor Regularization (SAR)** — aligns learnable text-inversion embeddings with VLM-derived semantic anchors
+- **Semantically Aligned Mask Synthesis (SAMS)** — generates spatially meaningful masks without manual bounding boxes
+
+<p align="center">
+  <img src="examples/fig1_comparison.png" width="900" alt="Qualitative comparison on PCB anomaly synthesis"/>
+  <br>
+  <em>Figure 1. Compared with AnoDiff and AnoGen, VL-AnoDiff produces more realistic anomalies with coherent backgrounds.</em>
+</p>
+
+---
+
+## Method
+
+<p align="center">
+  <img src="examples/fig2_framework.png" width="900" alt="VL-AnoDiff overall framework"/>
+  <br>
+  <em>Figure 2. Overview of VL-AnoDiff. A locally deployed VLM extracts semantic anchors and guides mask synthesis; SAR regularizes text inversion; a pretrained LDM performs mask-guided inpainting.</em>
+</p>
+
+| Component | Module | Description |
+|-----------|--------|-------------|
+| **SAR** | [`diffusion/`](diffusion/) | Mixed VLM-anchor initialization + anchor regularization during text inversion |
+| **SAMS** | [`vlm/mask_generation.py`](vlm/mask_generation.py) | VLM-guided, semantically aligned mask generation |
+| **Semantic prompts** | [`vlm/prompt_generation.py`](vlm/prompt_generation.py) | Qwen2.5-VL defect analysis and diffusion prompt generation |
+| **Inpaint synthesis** | [`diffusion/scripts/inference/`](diffusion/scripts/inference/) | Mask-guided anomaly generation with learned embeddings |
+
+**Training objective** (Eq. 6 in the paper):
+
+```
+L_total = L_diff + L_anchor
+```
 
 ---
 
@@ -36,13 +53,17 @@ Mo Li, Shubo Zhou, Weiyu Hu, Xue-Qin Jiang, Yongbin Gao
 
 ```
 VL-AnoDiff/
-├── vlm/                  # SAMS + VLM prompt generation (Qwen2.5-VL)
-├── diffusion/            # SAR + text inversion training + inpaint inference
-├── docs/
-│   └── paper.pdf         # Full paper
-├── examples/             # Paper figures and demo assets
+├── vlm/           # VLM module: prompt generation + SAMS
+├── diffusion/     # Diffusion module: SAR training + inpaint inference
+├── examples/      # Paper figures and demo assets
+├── docs/          # Additional documentation
 └── README.md
 ```
+
+| Directory | README |
+|-----------|--------|
+| VLM + SAMS | [`vlm/README.md`](vlm/README.md) |
+| SAR + Inpaint | [`diffusion/README.md`](diffusion/README.md) |
 
 ---
 
@@ -50,62 +71,85 @@ VL-AnoDiff/
 
 | Component | Status |
 |-----------|--------|
-| VLM module (`vlm/`) | ✅ Released |
-| Diffusion training (`diffusion/`) | ✅ Released |
-| Diffusion inference (`diffusion/`) | ✅ Released |
-| Pre-trained weights | 🔜 Coming soon |
+| VLM semantic guidance + SAMS (`vlm/`) | ✅ Complete |
+| Diffusion training — SAR (`diffusion/`) | ✅ Complete |
+| Diffusion inference — inpaint (`diffusion/`) | ✅ Complete |
 
 ---
 
-## Quick Start
+## Installation
 
-### 1. Environment
+### Clone
 
 ```bash
-# VLM module (mask + prompt generation)
-cd vlm && pip install -r requirements.txt
-
-# Diffusion module (SAR training + inpaint)
-cd diffusion && pip install -r requirements.txt
+git clone https://github.com/dhu-MoLi/VL-AnoDiff.git
+cd VL-AnoDiff
 ```
 
-### 2. Download pre-trained LDM
+### VLM module
+
+```bash
+cd vlm
+pip install -r requirements.txt
+# Download Qwen2.5-VL-7B — see vlm/README.md
+```
+
+### Diffusion module
 
 ```bash
 cd diffusion
+pip install -r requirements.txt
+
+# Download pretrained Latent Diffusion model (~5.8 GB)
 mkdir -p models/ldm/text2img-large/
 wget -O models/ldm/text2img-large/model.ckpt \
   https://ommer-lab.com/files/latent-diffusion/nitro/txt2img-f8-large/model.ckpt
 ```
 
-### 3. Full pipeline
+---
+
+## Quick Start
+
+### Full pipeline
 
 ```bash
-# Step 1: VLM — generate prompts and masks
+# 1. VLM — semantic prompts and SAMS masks
 cd vlm
 python prompt_generation.py
 python mask_generation.py
 
-# Step 2: Diffusion — SAR-enhanced embedding training
+# 2. Diffusion — build support set and train SAR embeddings
 cd ../diffusion
 bash shell/make_trainset.sh
-bash shell/run_llm_training.sh visa    # or mvtec
+bash shell/run_llm_training.sh visa     # or: mvtec
 
-# Step 3: Inpaint anomaly synthesis
+# 3. Inpaint — synthesize anomaly images
 bash shell/inference_single.sh
 ```
 
-See module READMEs for detailed instructions:
-- [`vlm/README.md`](vlm/README.md)
-- [`diffusion/README.md`](diffusion/README.md)
+### Minimal inpaint demo
+
+After training (or with a saved `embeddings.pt`):
+
+```bash
+cd diffusion
+bash shell/inference_single.sh
+# Uses examples/demo/normal.png + mask.png
+```
 
 ---
 
 ## Results
 
+Evaluated on **VisA** (12 industrial categories, K-shot setting). VL-AnoDiff achieves strong generation quality (IC-LPIPS / FID) and improves downstream anomaly detection (SimpleNet: **92.4% AUROC**) and classification (ResNet-18: **0.74 mean accuracy**).
+
 <p align="center">
-  <img src="examples/fig3_visa_results.png" width="860" alt="VisA generation results (Fig. 3)"/>
+  <img src="examples/fig3_visa_results.png" width="900" alt="VisA anomaly synthesis results"/>
+  <br>
+  <em>Figure 3. Qualitative results on VisA. Anomalies are well aligned with VLM-generated masks across diverse object types.</em>
 </p>
+
+More examples: [`examples/`](examples/) · Runnable demo panels: [`diffusion/examples/demo/`](diffusion/examples/demo/)
 
 ---
 
@@ -118,7 +162,8 @@ If you find this work useful, please cite:
   title={VL-AnoDiff: Vision-Language Guided Diffusion for Few-Shot Industrial Anomaly Synthesis},
   author={Li, Mo and Zhou, Shubo and Hu, Weiyu and Jiang, Xue-Qin and Gao, Yongbin},
   booktitle={IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)},
-  year={2026}
+  year={2026},
+  doi={10.1109/ICASSP55912.2026.11461878}
 }
 ```
 
@@ -126,11 +171,10 @@ If you find this work useful, please cite:
 
 ## Acknowledgements
 
-This work builds upon the following open-source projects:
+This project extends the diffusion pipeline of [AnoGen](https://github.com/csgaobb/AnoGen) (ECCV 2024) and builds on:
 
-- [AnoGen](https://github.com/csgaobb/AnoGen) — Few-Shot Anomaly-Driven Generation (ECCV 2024), used as our diffusion baseline
-- [Latent Diffusion](https://github.com/CompVis/latent-diffusion) — Pre-trained text-to-image model
-- [Qwen2.5-VL](https://github.com/QwenLM/Qwen2.5-VL) — Vision-language model for semantic understanding
+- [Latent Diffusion Models](https://github.com/CompVis/latent-diffusion)
+- [Qwen2.5-VL](https://github.com/QwenLM/Qwen2.5-VL)
 
 ---
 
@@ -140,4 +184,4 @@ This work builds upon the following open-source projects:
 
 ## Contact
 
-For questions, please open an issue or contact the authors.
+For questions or bug reports, please [open an issue](https://github.com/dhu-MoLi/VL-AnoDiff/issues).

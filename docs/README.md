@@ -1,9 +1,6 @@
 # Documentation
 
-Design notes and references for the diffusion module.
+- [`../diffusion/docs/llm_regularization.md`](../diffusion/docs/llm_regularization.md) — Semantic Anchor Regularization (SAR) design notes
+- [`../examples/`](../examples/) — Paper figures (Fig. 1–3) and demo assets
 
-- [`../diffusion/docs/llm_regularization.md`](../diffusion/docs/llm_regularization.md) — Semantic Anchor Regularization (SAR)
-
-The full paper PDF is available via IEEE Xplore (DOI: 10.1109/ICASSP55912.2026.11461878) and is **not** distributed in this repository.
-
-Paper figures used in the README are stored under [`../examples/`](../examples/).
+The full paper is available via [IEEE Xplore](https://doi.org/10.1109/icassp55912.2026.11461878).

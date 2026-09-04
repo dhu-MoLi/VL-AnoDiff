@@ -1,21 +1,20 @@
 # VL-AnoDiff — VLM Module
 
-> This repository is the **VLM semantic guidance module** of [VL-AnoDiff](https://github.com/dhu-MoLi/VL-AnoDiff). It uses a vision-language model to understand defect semantics and generate mask transformation strategies and diffusion prompts. The full project (training, inference, pre-trained weights, etc.) will be released in the main repository.
+> VLM semantic guidance and SAMS module of **[VL-AnoDiff](https://github.com/dhu-MoLi/VL-AnoDiff)** — uses a vision-language model to understand defect semantics, generate mask transformation strategies, and produce diffusion prompts.
 
 **VL-AnoDiff: Vision-Language Guided Diffusion for Few-Shot Industrial Anomaly Synthesis**
 
 Mo Li, Shubo Zhou, Weiyu Hu, Xue-Qin Jiang, Yongbin Gao
 
-A VLM-based tool for industrial anomaly detection data augmentation. It analyzes defect images with **Qwen2.5-VL**, recommends mask generation strategies, and produces diffusion prompts for synthetic anomaly sample generation.
+A VLM-based tool for industrial anomaly data augmentation. It analyzes defect images with **Qwen2.5-VL**, recommends mask generation strategies, and produces diffusion prompts for synthetic anomaly sample generation.
 
 ## Relationship to the Main Project
 
 | Module | Location | Status |
 |--------|----------|--------|
-| VLM semantic guidance + SAMS | `vlm/` (this directory) | ✅ Released |
-| Diffusion training + SAR | [`../diffusion/`](../diffusion/) | ✅ Released |
-| Diffusion inference | [`../diffusion/`](../diffusion/) | ✅ Released |
-| Pre-trained weights | — | 🔜 Coming soon |
+| VLM semantic guidance + SAMS | `vlm/` (this directory) | ✅ Complete |
+| Diffusion training + SAR | [`../diffusion/`](../diffusion/) | ✅ Complete |
+| Diffusion inference | [`../diffusion/`](../diffusion/) | ✅ Complete |
 
 ## Features
 
