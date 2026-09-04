@@ -1,0 +1,3 @@
+Original prompt: a broken_large defect in a bottle with a large crack and missing pieces
+Generated prompt 1: a significant break in a bottle
+Generated prompt 2: large damage on a bottle

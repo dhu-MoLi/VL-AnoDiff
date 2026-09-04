@@ -1,0 +1,5 @@
+Sample: pipe_fryum
+Image: 090
+Original prompt: A rough, uneven texture with a slightly darker coloration and irregular surface features
+Generated prompt 1: A smooth, glossy area with a lighter hue and distinct edge blurring
+Generated prompt 2: A patchy, discolored region with a granular texture and inconsistent surface pattern

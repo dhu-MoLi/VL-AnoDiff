@@ -1,0 +1,5 @@
+Sample: pcb3
+Image: 090
+Original prompt: A small, irregularly shaped white area with a rough texture and high contrast against the surrounding blue background
+Generated prompt 1: A larger, more elongated white spot with a smoother texture and slightly lower contrast compared to the original defect
+Generated prompt 2: A cluster of smaller white spots with varying textures, some rough and others smooth, creating a more complex pattern with moderate contrast

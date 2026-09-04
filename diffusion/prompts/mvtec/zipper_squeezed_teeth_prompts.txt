@@ -1,0 +1,3 @@
+Original prompt: a close-up of a zipper with squeezed teeth
+Generated prompt 1: an image of a zipper with a defect in the teeth
+Generated prompt 2: an image of a zipper with misaligned teeth

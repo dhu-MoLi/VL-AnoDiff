@@ -1,0 +1,3 @@
+Original prompt: a pill with a faulty imprint that is broken and irregularly shaped
+Generated prompt 1: a pill with a faulty imprint that is damaged
+Generated prompt 2: a pill with a faulty imprint that is flawed

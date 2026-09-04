@@ -1,0 +1,3 @@
+Original prompt: a broken_small defect in a bottle with a small crack visible
+Generated prompt 1: small defect in a bottle with minor cracks
+Generated prompt 2: minor defect in a bottle with slight damage

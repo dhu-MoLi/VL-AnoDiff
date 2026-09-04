@@ -1,0 +1,3 @@
+Original prompt: The liquid in the glass has a visible crack on the surface
+Generated prompt 1: The liquid in the container shows a surface irregularity
+Generated prompt 2: The liquid in the vessel has a noticeable flaw

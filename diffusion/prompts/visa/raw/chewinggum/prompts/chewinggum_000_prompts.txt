@@ -1,0 +1,5 @@
+Sample: chewinggum
+Image: 000
+Original prompt: A rough, irregularly shaped patch with a mix of brown and white colors, featuring a slightly raised texture and jagged edges
+Generated prompt 1: A smooth, circular blemish with a uniform gray color, having a slightly sunken texture and well-defined edges
+Generated prompt 2: A fine, linear scratch with a light brown hue, characterized by a thin, straight line with a subtle texture difference and sharp edges

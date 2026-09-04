@@ -1,0 +1,5 @@
+Sample: fryum
+Image: 060
+Original prompt: A small, irregularly shaped chip with a jagged edge and a slightly lighter color than the surrounding material
+Generated prompt 1: A medium-sized, irregularly shaped crack with a rough texture and a darker color than the surrounding material
+Generated prompt 2: A large, irregularly shaped hole with smooth edges and a significantly lighter color than the surrounding material

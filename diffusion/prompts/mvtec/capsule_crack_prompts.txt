@@ -1,0 +1,3 @@
+Original prompt: The capsule has a crack on its surface, with the crack being prominent and running through the middle of the capsule.
+Generated prompt 1: inor Generalization Image Defect Prompt
+Generated prompt 2: The capsule has a noticeable defect on its surface.

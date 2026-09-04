@@ -1,0 +1,3 @@
+Original prompt: The image shows a dark liquid in a glass container with a visible crack on the inner surface.
+Generated prompt 1: inor Generalization Image Defect Prompt
+Generated prompt 2: The image shows a dark liquid in a glass container with some damage to the inner surface.

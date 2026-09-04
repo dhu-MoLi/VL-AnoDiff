@@ -1,0 +1,3 @@
+Original prompt: a transistor with a misplaced component
+Generated prompt 1: a semiconductor device with a misplaced part
+Generated prompt 2: an electronic component with an incorrectly placed element

@@ -1,0 +1,3 @@
+Original prompt: a metal nut with a dark stain on its surface
+Generated prompt 1: a metal nut with a discoloration on its surface
+Generated prompt 2: a metal nut with a dark spot on its surface

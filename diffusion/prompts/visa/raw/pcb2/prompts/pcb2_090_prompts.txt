@@ -1,0 +1,5 @@
+Sample: pcb2
+Image: 090
+Original prompt: White, irregularly shaped scratch with a jagged edge and high contrast against the blue background
+Generated prompt 1: Small, circular white spot with a smooth edge and moderate contrast against the blue background
+Generated prompt 2: Linear, white streak with a rough texture and high contrast against the blue background

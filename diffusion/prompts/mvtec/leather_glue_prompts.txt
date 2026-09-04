@@ -1,0 +1,3 @@
+Original prompt: Leather with a large, circular glue defect in the center
+Generated prompt 1: Leather with a noticeable glue defect
+Generated prompt 2: Material with a central adhesive defect

@@ -1,0 +1,5 @@
+Sample: pcb2
+Image: 050
+Original prompt: A small, vertical white line with a slightly blurred edge and low contrast against the dark background
+Generated prompt 1: A short, horizontal white streak with a fuzzy boundary and moderate contrast
+Generated prompt 2: A tiny, diagonal white spot with a sharp edge and high contrast

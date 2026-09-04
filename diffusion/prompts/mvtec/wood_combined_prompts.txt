@@ -1,0 +1,3 @@
+Original prompt: The image shows a broken glass bottle with a jagged edge and a missing piece, indicating a fracture defect.
+Generated prompt 1: inor Generalization Image Defect Prompt
+Generated prompt 2: The image shows a damaged glass object with a jagged edge and a missing piece.

@@ -1,0 +1,3 @@
+Original prompt: a poke defect in a capsule with a dark center and reflective edges
+Generated prompt 1: a poke defect in a capsule with a dark interior
+Generated prompt 2: an indentation defect in a capsule with reflective surfaces

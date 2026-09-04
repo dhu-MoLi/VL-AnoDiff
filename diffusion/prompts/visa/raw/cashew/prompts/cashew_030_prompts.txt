@@ -1,0 +1,5 @@
+Sample: cashew
+Image: 030
+Original prompt: Small, dark spots with irregular edges and low contrast against the light-colored surface
+Generated prompt 1: Medium-sized, dark patches with smooth edges and moderate contrast against the light-colored surface
+Generated prompt 2: Tiny, dark specks with jagged edges and high contrast against the light-colored surface

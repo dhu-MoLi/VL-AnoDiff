@@ -1,0 +1,5 @@
+Sample: pcb1
+Image: 040
+Original prompt: A rectangular area with a white background and a small, irregularly shaped black spot near the top center, with a smooth texture and sharp edges.
+Generated prompt 1: A circular area with a white background and a large, uniform black spot covering most of the circle, with a smooth texture and well-defined edges.
+Generated prompt 2: A rectangular area with a white background and multiple small, irregularly shaped black spots scattered throughout, with a rough texture and jagged edges.

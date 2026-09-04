@@ -1,0 +1,5 @@
+Sample: cashew
+Image: 050
+Original prompt: A small, irregularly shaped white spot with a slightly rough texture and well-defined edges
+Generated prompt 1: A larger, irregularly shaped white spot with a smoother texture and less defined edges
+Generated prompt 2: Multiple smaller, irregularly shaped white spots with varying textures and edge definitions

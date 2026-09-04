@@ -1,0 +1,5 @@
+Sample: cashew
+Image: 040
+Original prompt: A small, irregularly shaped hole with rough edges and a slightly darker interior compared to the surrounding area
+Generated prompt 1: A larger, more elongated hole with uneven edges and a shadowy interior that contrasts sharply with the lighter surrounding surface
+Generated prompt 2: Multiple small, round holes clustered together with smooth edges and a consistent dark coloration, creating a pattern of defects

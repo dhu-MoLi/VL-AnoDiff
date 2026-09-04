@@ -1,0 +1,3 @@
+Original prompt: The zipper has split teeth, causing a gap in the middle of the zipper line.
+Generated prompt 1: inor Generalization Image Defect Prompt
+Generated prompt 2: The zipper has a defect with missing teeth.

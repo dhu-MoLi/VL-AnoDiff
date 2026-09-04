@@ -1,0 +1,5 @@
+Sample: pcb1
+Image: 050
+Original prompt: A white circular area with a smooth texture and high contrast against the surrounding dark background
+Generated prompt 1: A black circular area with a rough texture and low contrast against the surrounding light background
+Generated prompt 2: A gray circular area with a speckled texture and moderate contrast against the surrounding dark background

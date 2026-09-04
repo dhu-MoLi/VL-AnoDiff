@@ -1,0 +1,3 @@
+Original prompt: metal contamination in a dark liquid container
+Generated prompt 1: metal contamination in a liquid container
+Generated prompt 2: metal contamination in a dark container

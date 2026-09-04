@@ -1,0 +1,5 @@
+Sample: fryum
+Image: 070
+Original prompt: A small, irregularly shaped fragment with a rough texture and jagged edges. The fragment is lighter in color compared to the surrounding material, creating a noticeable contrast.
+Generated prompt 1: A larger, more irregularly shaped fragment with a rough texture and uneven edges. The fragment has a slightly darker shade than the original defect, enhancing the contrast against the surrounding material.
+Generated prompt 2: A smaller, more regular-shaped fragment with a smoother texture and less pronounced edges. The fragment is of a similar color to the original defect but with a slightly different hue, providing a subtle contrast.

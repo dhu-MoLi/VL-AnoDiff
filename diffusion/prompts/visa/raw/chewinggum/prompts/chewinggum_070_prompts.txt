@@ -1,0 +1,5 @@
+Sample: chewinggum
+Image: 070
+Original prompt: The defect is characterized by a smooth, glossy surface with a uniform light gray color. The edges are sharp and well-defined, creating a stark contrast against the surrounding textured background.
+Generated prompt 1: A small, irregularly shaped patch with a rough texture and a matte finish. The color is a dark gray, blending subtly with the surrounding area, and the edges are slightly blurred.
+Generated prompt 2: A linear scratch with a fine, hairline texture. The color is a light beige, standing out against the darker background. The edges are thin and precise, indicating a shallow depth of the defect.

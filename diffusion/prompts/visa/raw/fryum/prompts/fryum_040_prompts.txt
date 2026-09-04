@@ -1,0 +1,5 @@
+Sample: fryum
+Image: 040
+Original prompt: A smooth, light-colored patch with a slightly glossy texture and well-defined edges against a darker background
+Generated prompt 1: A rough, dark patch with a matte texture and irregular edges
+Generated prompt 2: A textured, medium-toned patch with a semi-gloss finish and jagged edges

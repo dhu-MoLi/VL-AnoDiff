@@ -1,0 +1,5 @@
+Sample: macaroni2
+Image: 010
+Original prompt: A small, irregularly shaped white spot with a smooth texture and high contrast against the dark background
+Generated prompt 1: A larger, irregularly shaped white spot with a rough texture and high contrast against the dark background
+Generated prompt 2: A medium-sized, irregularly shaped white spot with a semi-transparent texture and moderate contrast against the dark background

@@ -1,0 +1,5 @@
+Sample: pcb2
+Image: 020
+Original prompt: A small, irregularly shaped burn mark with a dark brown to black coloration, rough texture, and slightly raised edges. The defect has a high contrast against the surrounding blue background and appears to have affected the surface integrity of the component.
+Generated prompt 1: A larger, more elongated burn mark with a gradient from dark brown at the edges to black in the center, featuring a rough and uneven texture. The defect has a distinct outline with some areas appearing slightly melted or distorted, creating a high contrast against the blue background.
+Generated prompt 2: A cluster of smaller burn marks scattered closely together, each with a dark brown to black coloration and a rough, textured appearance. The individual marks vary in size and shape but collectively form a more widespread area of damage with high contrast against the blue background.

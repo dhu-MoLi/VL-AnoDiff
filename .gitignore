@@ -1,0 +1,40 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.eggs/
+dist/
+build/
+
+# IDE
+.vscode/
+.idea/
+.DS_Store
+
+# Environment
+.env
+
+# Large model weights
+*.ckpt
+*.safetensors
+
+# Training outputs
+logs/
+outputs/
+weights_*/
+.temp_llm_weight
+
+# Data (download locally)
+data/
+datasets/
+
+# Cache
+llm_cache/
+
+# Jupyter
+*.ipynb_checkpoints/
+
+# Paper PDF and local-only assets (do not commit)
+docs/paper.pdf
+docs/*.pdf
+examples/VL-Anodiff*.pdf

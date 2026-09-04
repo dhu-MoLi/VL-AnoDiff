@@ -1,0 +1,3 @@
+Original prompt: Scratch defect on a dark, glossy surface
+Generated prompt 1: inor Generalization Image Defect Prompt
+Generated prompt 2: Scratch defect on a reflective surface

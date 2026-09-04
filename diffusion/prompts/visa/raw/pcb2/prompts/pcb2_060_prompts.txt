@@ -1,0 +1,5 @@
+Sample: pcb2
+Image: 060
+Original prompt: A small, irregularly shaped white spot with a slightly rough texture and high contrast against the surrounding dark background
+Generated prompt 1: A larger, more elongated white streak with a smooth texture and moderate contrast against the surrounding area
+Generated prompt 2: Multiple small, scattered white spots with varying sizes and textures, creating a speckled appearance with high contrast

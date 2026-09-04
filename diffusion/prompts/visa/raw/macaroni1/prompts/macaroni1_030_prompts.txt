@@ -1,0 +1,5 @@
+Sample: macaroni1
+Image: 030
+Original prompt: A small, dark spot with a smooth texture and high contrast against the light yellow background of the pasta
+Generated prompt 1: A larger dark patch with a rough texture and irregular edges, standing out sharply against the pasta's surface
+Generated prompt 2: A series of fine, dark lines forming a network pattern on the pasta's surface, creating a web-like appearance with moderate contrast

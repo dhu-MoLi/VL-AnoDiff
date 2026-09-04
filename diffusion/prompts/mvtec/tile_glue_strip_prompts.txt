@@ -1,0 +1,3 @@
+Original prompt: glue strip defect on a circular object
+Generated prompt 1: inor Generalization Image Defect Prompt
+Generated prompt 2: glue strip defect on a round object

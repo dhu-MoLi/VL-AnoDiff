@@ -1,0 +1,5 @@
+Sample: pipe_fryum
+Image: 030
+Original prompt: A small, dark circular spot with a sharp edge and high contrast against the light beige background
+Generated prompt 1: A cluster of small, dark spots with irregular shapes and varying sizes, each having a distinct edge and high contrast against the light beige background
+Generated prompt 2: A linear scratch with a rough texture, displaying a gradient from dark to light along its length, creating a sense of depth and directionality against the light beige background

@@ -1,0 +1,3 @@
+Original prompt: The image shows a crack in a circular object, with the crack appearing as a dark line through the middle.
+Generated prompt 1: inor Generalization Image Defect Prompt
+Generated prompt 2: The image displays a defect in a circular object, with a noticeable line indicating a break or fracture.

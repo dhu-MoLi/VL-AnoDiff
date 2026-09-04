@@ -1,0 +1,5 @@
+Sample: cashew
+Image: 000
+Original prompt: Small, round, brown spot with a slightly rough texture and high contrast against the smooth, light-colored surface
+Generated prompt 1: Oval-shaped, dark brown blemish with a rough texture and sharp edges, standing out against the lighter background
+Generated prompt 2: Linear, dark streak with a smooth texture and low contrast, blending subtly into the surrounding lighter area

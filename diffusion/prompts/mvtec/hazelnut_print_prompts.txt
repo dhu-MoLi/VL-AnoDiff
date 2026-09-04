@@ -1,0 +1,3 @@
+Original prompt: The hazelnut has a large, dark print defect on its surface
+Generated prompt 1: hazelnut with a significant print defect
+Generated prompt 2: hazelnut with a noticeable print flaw

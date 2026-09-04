@@ -1,0 +1,3 @@
+Original prompt: a close-up of a poke defect on a leather surface
+Generated prompt 1: close-up of a small defect on a leather surface
+Generated prompt 2: close-up of a minor flaw on a leather surface

@@ -1,0 +1,5 @@
+Sample: pcb3
+Image: 050
+Original prompt: A white, opaque area with a smooth texture and well-defined edges, contrasting sharply against the surrounding dark background
+Generated prompt 1: A translucent, milky-white region with a slightly irregular surface and distinct boundaries, standing out against the darker areas
+Generated prompt 2: A cloudy, whitish spot with a semi-transparent appearance and clear edges, creating a stark contrast with the adjacent darker sections

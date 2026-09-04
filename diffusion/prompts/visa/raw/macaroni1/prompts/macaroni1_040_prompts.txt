@@ -1,0 +1,5 @@
+Sample: macaroni1
+Image: 040
+Original prompt: A small, irregularly shaped hole with rough edges and a slightly darker color than the surrounding area
+Generated prompt 1: A larger, more elongated crack with jagged edges and a lighter color at the center, gradually darkening towards the edges
+Generated prompt 2: Multiple small, round pits clustered together with smooth edges and a uniform, slightly darker color compared to the surrounding surface

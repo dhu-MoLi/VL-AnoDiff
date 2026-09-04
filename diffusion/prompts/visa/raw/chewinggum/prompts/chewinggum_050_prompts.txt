@@ -1,0 +1,5 @@
+Sample: chewinggum
+Image: 050
+Original prompt: A cluster of fine, white particles with a slightly irregular shape and texture, creating a subtle contrast against the smooth, light-colored background
+Generated prompt 1: A small, irregularly shaped patch of discoloration with a rough texture, standing out against the uniform background due to its darker shade and granular appearance
+Generated prompt 2: A linear streak of fine, white particles with a somewhat jagged edge, providing a noticeable contrast against the smooth, light-colored surface due to its distinct texture and color

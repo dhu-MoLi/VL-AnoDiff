@@ -1,0 +1,5 @@
+Sample: pcb4
+Image: 010
+Original prompt: The defect is characterized by a metallic surface with signs of wear and tear, including scratches, dents, and discoloration. The texture appears rough and uneven, with a dull sheen that contrasts sharply with the surrounding smooth and shiny areas.
+Generated prompt 1: A patch of corrosion on the circuit board, appearing as a rough, uneven surface with a mix of brown and green hues. The edges are irregular, blending into the surrounding area with a gradient of discoloration.
+Generated prompt 2: An area of chipped paint revealing the underlying material, which has a rough texture and a matte finish. The color is a dull gray, contrasting with the vibrant blue of the circuit board.

@@ -1,0 +1,3 @@
+Original prompt: a hazelnut with a large, irregular cut defect
+Generated prompt 1: a nut with a significant cut defect
+Generated prompt 2: a food item with a noticeable cut defect

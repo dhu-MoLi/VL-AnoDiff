@@ -1,0 +1,5 @@
+Sample: fryum
+Image: 080
+Original prompt: Small, scattered white spots with irregular shapes and sizes, low contrast against the dark background, soft edges
+Generated prompt 1: Clustered white spots with varying sizes, slightly higher contrast than the original, some spots with sharper edges
+Generated prompt 2: Isolated white spots with uniform size, moderate contrast, and well-defined edges

@@ -1,0 +1,3 @@
+Original prompt: a bent wire inside a cable with visible damage
+Generated prompt 1: bent wire inside a damaged cable
+Generated prompt 2: visible damage on a cable with a bent wire

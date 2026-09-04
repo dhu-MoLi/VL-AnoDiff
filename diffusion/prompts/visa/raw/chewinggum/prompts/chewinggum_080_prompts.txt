@@ -1,0 +1,5 @@
+Sample: chewinggum
+Image: 080
+Original prompt: A small, round, and smooth bump with a slightly glossy surface and a light color contrast against the surrounding area
+Generated prompt 1: A linear scratch with a fine texture, showing a slight indentation and a matte finish with a subtle color difference from the surrounding material
+Generated prompt 2: A cluster of small, irregularly shaped pits with rough textures, exhibiting a dull appearance and a darker shade compared to the surrounding surface

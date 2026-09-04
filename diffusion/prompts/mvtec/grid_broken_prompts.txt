@@ -1,0 +1,3 @@
+Original prompt: a broken glass bottle with a large crack
+Generated prompt 1: a damaged glass container with cracks
+Generated prompt 2: an old glass bottle with visible damage

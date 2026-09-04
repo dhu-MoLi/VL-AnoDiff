@@ -1,0 +1,5 @@
+Sample: pipe_fryum
+Image: 000
+Original prompt: Small, irregularly shaped brown spot with a rough texture and slightly raised surface
+Generated prompt 1: Medium-sized, circular dark spot with a smooth texture and a well-defined edge
+Generated prompt 2: Large, irregularly shaped gray patch with a coarse texture and uneven edges

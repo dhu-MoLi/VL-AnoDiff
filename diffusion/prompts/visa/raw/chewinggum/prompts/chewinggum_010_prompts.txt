@@ -1,0 +1,5 @@
+Sample: chewinggum
+Image: 010
+Original prompt: A small, irregularly shaped brownish discoloration with a rough texture and slightly raised edges
+Generated prompt 1: A larger, more diffuse brownish stain with a smoother texture and less defined edges
+Generated prompt 2: A cluster of smaller, round brown spots with a granular texture and sharp edges

@@ -1,0 +1,3 @@
+Original prompt: The hazelnut has a crack that is visible from the top view
+Generated prompt 1: hazelnut with a visible defect from a top-down perspective
+Generated prompt 2: hazelnut with a noticeable crack

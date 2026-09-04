@@ -1,0 +1,5 @@
+Sample: pipe_fryum
+Image: 040
+Original prompt: A dark, irregularly shaped hole with a rough texture and jagged edges. The surrounding area shows signs of stress with fine cracks radiating outward.
+Generated prompt 1: A small, circular indentation with a smooth texture and well-defined edges. The surrounding material appears slightly compressed.
+Generated prompt 2: A long, thin scratch with a rough texture and uneven edges. The scratch has a consistent width and extends across the surface.

@@ -1,0 +1,5 @@
+Sample: capsules
+Image: 070
+Original prompt: A smooth, glossy surface with a uniform green color and a slight reflection, indicating a possible indentation or deformation on the capsule's surface
+Generated prompt 1: A rough, matte texture with a patch of discoloration, showing a potential scratch or abrasion on the capsule's surface
+Generated prompt 2: A distinct, irregularly shaped area with a darker green hue and a lack of glossiness, suggesting a possible stain or contamination on the capsule's surface

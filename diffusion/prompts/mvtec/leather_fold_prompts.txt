@@ -1,0 +1,3 @@
+Original prompt: Leather with a fold defect, showing a crease in the material
+Generated prompt 1: Material with a fold defect, showing a crease
+Generated prompt 2: Surface with a fold defect, showing a crease

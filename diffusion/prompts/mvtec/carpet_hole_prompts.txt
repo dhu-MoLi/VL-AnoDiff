@@ -1,0 +1,3 @@
+Original prompt: The image shows a broken glass bottle with a large hole in the center.
+Generated prompt 1: The image shows a damaged glass object with a significant defect.
+Generated prompt 2: The image shows a cracked glass item with a noticeable flaw.

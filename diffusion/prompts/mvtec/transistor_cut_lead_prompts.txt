@@ -1,0 +1,3 @@
+Original prompt: The transistor has a cut lead defect, with the lead visibly broken and jagged edges.
+Generated prompt 1: inor Generalization Image Defect Prompt
+Generated prompt 2: The electronic component has a damaged lead, showing signs of breakage.

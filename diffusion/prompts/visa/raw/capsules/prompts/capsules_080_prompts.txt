@@ -1,0 +1,5 @@
+Sample: capsules
+Image: 080
+Original prompt: A white, opaque area with smooth edges and a uniform texture, contrasting sharply with the surrounding dark background
+Generated prompt 1: A translucent, cloudy spot with irregular edges and a gradient of opacity, blending subtly into the surrounding area
+Generated prompt 2: A dark, glossy patch with a reflective surface, creating a stark contrast against the lighter areas and having well-defined, sharp edges

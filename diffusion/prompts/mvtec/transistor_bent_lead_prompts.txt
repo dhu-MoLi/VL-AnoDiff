@@ -1,0 +1,3 @@
+Original prompt: bent lead on a transistor
+Generated prompt 1: damaged component with bent pins
+Generated prompt 2: electronic part with deformed leads

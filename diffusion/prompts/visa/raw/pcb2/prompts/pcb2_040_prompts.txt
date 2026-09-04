@@ -1,0 +1,5 @@
+Sample: pcb2
+Image: 040
+Original prompt: A white, rectangular component with multiple pin-like protrusions on both the top and bottom sides, arranged in two parallel rows. The pins are evenly spaced and have a metallic sheen.
+Generated prompt 1: A blackened, rectangular component with multiple pin-like protrusions on both the top and bottom sides, arranged in two parallel rows. The pins are unevenly spaced and have a dull, matte finish.
+Generated prompt 2: A yellowish, rectangular component with multiple pin-like protrusions on both the top and bottom sides, arranged in two parallel rows. The pins are bent and misaligned, with some missing entirely.

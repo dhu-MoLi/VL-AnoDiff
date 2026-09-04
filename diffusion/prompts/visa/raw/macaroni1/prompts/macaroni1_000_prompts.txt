@@ -1,0 +1,5 @@
+Sample: macaroni1
+Image: 000
+Original prompt: A small, triangular chip missing from the edge of a pasta piece, with a clean break and a slightly rough texture.
+Generated prompt 1: A larger, irregularly shaped chip missing from the edge of a pasta piece, with a jagged texture and a more pronounced shadow.
+Generated prompt 2: Multiple small chips missing from the edge of a pasta piece, creating a serrated appearance with varying depths and textures.

@@ -10,12 +10,12 @@ A VLM-based tool for industrial anomaly detection data augmentation. It analyzes
 
 ## Relationship to the Main Project
 
-| Module | Repository | Status |
-|--------|------------|--------|
-| VLM semantic guidance (this repo) | Current directory | Open-sourcing |
-| Diffusion model training | [VL-AnoDiff](https://github.com/dhu-MoLi/VL-AnoDiff) | Pending |
-| Model inference | [VL-AnoDiff](https://github.com/dhu-MoLi/VL-AnoDiff) | Pending |
-| Pre-trained weights | [VL-AnoDiff](https://github.com/dhu-MoLi/VL-AnoDiff) | Pending |
+| Module | Location | Status |
+|--------|----------|--------|
+| VLM semantic guidance + SAMS | `vlm/` (this directory) | ✅ Released |
+| Diffusion training + SAR | [`../diffusion/`](../diffusion/) | ✅ Released |
+| Diffusion inference | [`../diffusion/`](../diffusion/) | ✅ Released |
+| Pre-trained weights | — | 🔜 Coming soon |
 
 ## Features
 

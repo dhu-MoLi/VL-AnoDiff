@@ -1,0 +1,5 @@
+Sample: pcb4
+Image: 080
+Original prompt: A small, irregularly shaped area with a rough texture and a dull, brownish coloration, contrasting sharply with the surrounding smooth, blue surface.
+Generated prompt 1: A rectangular section with a smooth, glossy finish and a lighter, almost white hue compared to the adjacent darker areas, creating a stark contrast.
+Generated prompt 2: A circular spot with a granular texture and a dark, almost black appearance, standing out against the uniform background due to its distinct color and texture.

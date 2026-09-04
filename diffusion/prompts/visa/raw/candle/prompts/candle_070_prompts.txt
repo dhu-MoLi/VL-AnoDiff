@@ -1,0 +1,5 @@
+Sample: candle
+Image: 070
+Original prompt: Small, irregular brown spots with a rough texture and low contrast against the background
+Generated prompt 1: Cluster of fine, dark brown specks with a slightly raised texture and subtle contrast variations
+Generated prompt 2: Isolated, larger brown blemish with a smoother texture and higher contrast compared to the surrounding area

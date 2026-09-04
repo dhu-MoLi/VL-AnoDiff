@@ -1,0 +1,5 @@
+Sample: pcb4
+Image: 050
+Original prompt: The defect is characterized by a rough, uneven texture with a dull metallic sheen. The color is a mix of gray and brown, with some areas appearing more corroded than others. The edges are irregular and jagged, indicating possible damage or wear.
+Generated prompt 1: A patch of discoloration with a smooth, glossy surface. The color transitions from a light beige to a darker brown, suggesting oxidation. The edges are slightly blurred, blending into the surrounding area.
+Generated prompt 2: An area with a granular texture and a matte finish. The color is a uniform dark gray, with some spots showing a lighter shade. The edges are well-defined but have a slight roughness, indicating potential material degradation.

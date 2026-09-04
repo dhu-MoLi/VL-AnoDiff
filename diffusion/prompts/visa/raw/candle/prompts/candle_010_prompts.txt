@@ -1,0 +1,5 @@
+Sample: candle
+Image: 010
+Original prompt: A small, irregularly shaped area with a lighter color and rough texture, contrasting sharply with the surrounding smooth surface
+Generated prompt 1: A cluster of tiny, irregular spots with a slightly darker hue and a granular texture, standing out against the uniform background
+Generated prompt 2: A linear scratch with a jagged edge, displaying a lighter shade and a matte finish that disrupts the otherwise smooth and glossy surface

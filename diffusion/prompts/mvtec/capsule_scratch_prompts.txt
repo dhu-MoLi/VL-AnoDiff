@@ -1,0 +1,3 @@
+Original prompt: Scratch defect on a capsule
+Generated prompt 1: Scratch defect on a small container
+Generated prompt 2: Scratch defect on a round object

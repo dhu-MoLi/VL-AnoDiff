@@ -1,0 +1,5 @@
+Sample: candle
+Image: 000
+Original prompt: A small, irregularly shaped white spot with a slightly rough texture and high contrast against the dark background
+Generated prompt 1: A larger, more elongated white streak with a smooth texture and sharp edges, standing out prominently against the dark background
+Generated prompt 2: Multiple small, scattered white spots with varying sizes and textures, creating a speckled pattern against the dark background

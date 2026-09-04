@@ -1,0 +1,5 @@
+Sample: capsules
+Image: 060
+Original prompt: The defect is characterized by a dark, opaque area with a smooth texture and a well-defined edge. The color is a deep black, contrasting sharply with the surrounding translucent green material.
+Generated prompt 1: A rough, textured patch with a matte finish and irregular edges. The color is a dull gray, blending poorly with the glossy surface of the capsules.
+Generated prompt 2: A small, circular indentation with a shiny, reflective surface. The color is a lighter shade of green, creating a subtle contrast against the darker background of the capsule.

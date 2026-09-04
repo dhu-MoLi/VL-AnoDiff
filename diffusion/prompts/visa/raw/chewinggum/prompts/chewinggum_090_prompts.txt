@@ -1,0 +1,5 @@
+Sample: chewinggum
+Image: 090
+Original prompt: A small, irregularly shaped bump with a glossy surface and a slightly raised edge, contrasting with the smooth texture of the surrounding area
+Generated prompt 1: A tiny, round indentation with a matte finish and a subtle shadow, creating a slight depression in the otherwise uniform surface
+Generated prompt 2: A fine, linear scratch with a rough texture and a faint white line, disrupting the continuity of the surface and standing out against the smooth background

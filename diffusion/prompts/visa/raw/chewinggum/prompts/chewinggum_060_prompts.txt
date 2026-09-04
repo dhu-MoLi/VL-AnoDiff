@@ -1,0 +1,5 @@
+Sample: chewinggum
+Image: 060
+Original prompt: A small, irregularly shaped area with a rough texture and a lighter color compared to the surrounding surface, featuring a slightly raised edge and a matte finish.
+Generated prompt 1: A cluster of fine, hair-like cracks emanating from a central point, with a subtle change in color from the surrounding material, creating a starburst pattern.
+Generated prompt 2: A smooth, circular indentation with a glossy surface, contrasting sharply with the matte finish of the surrounding area, and a uniform color that is slightly darker than the base material.

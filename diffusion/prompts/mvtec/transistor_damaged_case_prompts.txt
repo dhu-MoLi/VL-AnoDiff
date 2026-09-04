@@ -1,0 +1,3 @@
+Original prompt: The transistor has a damaged case with visible cracks and chipped edges.
+Generated prompt 1: inor Generalization Image Defect Prompt
+Generated prompt 2: The electronic component has a broken casing with visible damage.

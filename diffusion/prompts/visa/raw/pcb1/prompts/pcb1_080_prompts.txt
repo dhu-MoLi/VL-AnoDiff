@@ -1,0 +1,5 @@
+Sample: pcb1
+Image: 080
+Original prompt: The defect is characterized by a cluster of small, irregularly shaped white spots with rough edges and high contrast against the dark background.
+Generated prompt 1: A series of fine, hair-like white lines with jagged edges and varying lengths, creating a web-like pattern with high contrast against the dark background.
+Generated prompt 2: Small, round white spots with smooth edges and uniform size, scattered randomly across the surface with moderate contrast against the dark background.

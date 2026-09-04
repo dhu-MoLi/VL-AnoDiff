@@ -1,0 +1,3 @@
+Original prompt: The toothbrush has a broken bristle
+Generated prompt 1: The toothbrush has damaged bristles
+Generated prompt 2: The toothbrush has a defect in its bristles

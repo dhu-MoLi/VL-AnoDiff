@@ -1,0 +1,5 @@
+Sample: macaroni1
+Image: 090
+Original prompt: A thin, elongated white line with a slight curve, featuring a smooth texture and high contrast against the dark background
+Generated prompt 1: A short, curved white line with a rough texture and high contrast against the dark background
+Generated prompt 2: A jagged, irregular white line with a textured surface and high contrast against the dark background

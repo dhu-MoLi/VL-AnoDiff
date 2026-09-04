@@ -1,0 +1,5 @@
+Sample: pipe_fryum
+Image: 080
+Original prompt: A light-colored, irregularly shaped scratch with a slightly raised edge and a smooth texture, contrasting against the uniform surface of the material
+Generated prompt 1: A small, dark spot with a rough texture and uneven edges, standing out against the lighter background
+Generated prompt 2: A fine, hairline crack with a subtle change in color and a slight indentation, disrupting the otherwise smooth surface

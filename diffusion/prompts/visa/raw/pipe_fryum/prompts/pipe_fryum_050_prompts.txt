@@ -1,0 +1,5 @@
+Sample: pipe_fryum
+Image: 050
+Original prompt: A small, circular, light-colored spot with a smooth texture and sharp edges against a darker background
+Generated prompt 1: A larger, irregularly shaped, light-colored patch with a rough texture and blurred edges
+Generated prompt 2: Multiple small, circular, light-colored spots with a smooth texture and sharp edges scattered across the surface

@@ -1,0 +1,5 @@
+Sample: capsules
+Image: 030
+Original prompt: A small, round, white spot with a slightly raised texture and a sharp edge against the dark background
+Generated prompt 1: A larger, irregularly shaped white area with a rough texture and blurred edges
+Generated prompt 2: A cluster of tiny white spots with smooth textures and well-defined edges

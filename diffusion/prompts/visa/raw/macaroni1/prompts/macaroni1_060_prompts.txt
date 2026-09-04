@@ -1,0 +1,5 @@
+Sample: macaroni1
+Image: 060
+Original prompt: A small, irregularly shaped white spot with a smooth texture and well-defined edges
+Generated prompt 1: A larger, irregularly shaped white spot with a rough texture and slightly blurred edges
+Generated prompt 2: A medium-sized, irregularly shaped white spot with a granular texture and jagged edges

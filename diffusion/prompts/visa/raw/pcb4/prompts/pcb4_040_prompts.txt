@@ -1,0 +1,5 @@
+Sample: pcb4
+Image: 040
+Original prompt: A small, irregularly shaped chip with a rough texture and a metallic sheen, featuring a distinct contrast against the blue background of the circuit board.
+Generated prompt 1: A rectangular component with a smooth surface and a matte finish, displaying a subtle contrast with the surrounding area.
+Generated prompt 2: A circular component with a glossy texture and a reflective surface, creating a noticeable contrast against the blue background.

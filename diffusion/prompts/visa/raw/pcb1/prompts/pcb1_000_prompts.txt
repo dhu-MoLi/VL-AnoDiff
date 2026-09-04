@@ -1,0 +1,5 @@
+Sample: pcb1
+Image: 000
+Original prompt: A small, vertical white line with a smooth texture and high contrast against the dark background
+Generated prompt 1: A short, horizontal white streak with a slightly rough texture and high contrast against the dark background
+Generated prompt 2: A tiny, diagonal white spot with a grainy texture and moderate contrast against the dark background

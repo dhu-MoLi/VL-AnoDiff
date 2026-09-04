@@ -1,0 +1,5 @@
+Sample: chewinggum
+Image: 030
+Original prompt: A small, irregularly shaped chip with a rough texture and a color that transitions from the original white to a brownish hue, creating a stark contrast with the smooth surface of the sample.
+Generated prompt 1: A larger, more jagged chip with a rough texture, where the color changes abruptly from the original white to a dark brown, resulting in a high contrast against the smooth surface.
+Generated prompt 2: A fine, hairline crack with a slightly rough texture, characterized by a subtle transition from the original white to a light gray, blending in more subtly with the surrounding surface.

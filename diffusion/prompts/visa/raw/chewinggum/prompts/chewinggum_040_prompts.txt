@@ -1,0 +1,5 @@
+Sample: chewinggum
+Image: 040
+Original prompt: A small, irregularly shaped indentation with a rough texture and slightly lighter color compared to the surrounding smooth surface
+Generated prompt 1: A fine, hairline crack with a subtle change in color, appearing as a thin, dark line against the light background
+Generated prompt 2: A cluster of small, round pits with a matte finish, each pit having a darker center and a lighter rim

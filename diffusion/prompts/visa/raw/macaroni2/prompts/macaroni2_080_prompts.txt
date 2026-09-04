@@ -1,0 +1,5 @@
+Sample: macaroni2
+Image: 080
+Original prompt: A small, irregularly shaped area with a jagged edge and a slightly lighter color than the surrounding surface, creating a subtle contrast.
+Generated prompt 1: A smooth, rounded indentation with a consistent texture and a slight shadow along the inner edge, providing a gentle contrast against the adjacent surface.
+Generated prompt 2: A linear scratch with a rough texture and uneven edges, causing a noticeable disruption in the uniformity of the surface and a high contrast with the surrounding area.

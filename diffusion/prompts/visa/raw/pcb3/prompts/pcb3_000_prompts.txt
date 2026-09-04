@@ -1,0 +1,5 @@
+Sample: pcb3
+Image: 000
+Original prompt: A white, linear scratch with a slightly jagged edge and high contrast against the blue background
+Generated prompt 1: A small, circular burn mark with a dark center and lighter edges, creating a halo effect
+Generated prompt 2: A cluster of fine, white scratches with irregular patterns and low contrast against the blue background

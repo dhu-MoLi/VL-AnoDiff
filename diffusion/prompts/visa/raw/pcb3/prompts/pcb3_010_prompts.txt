@@ -1,0 +1,5 @@
+Sample: pcb3
+Image: 010
+Original prompt: A pair of white, irregularly shaped spots with a slightly rough texture and high contrast against the dark background
+Generated prompt 1: Two adjacent, irregular white spots with a smooth texture and sharp edges, standing out against a darker backdrop
+Generated prompt 2: Three small, irregular white spots with a grainy texture and moderate contrast, clustered together on a dark surface

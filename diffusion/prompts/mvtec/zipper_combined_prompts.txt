@@ -1,0 +1,3 @@
+Original prompt: The zipper has a broken tooth and is misaligned
+Generated prompt 1: The zipper has a defect with a broken component
+Generated prompt 2: The zipper shows signs of wear and tear

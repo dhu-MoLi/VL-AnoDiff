@@ -1,0 +1,3 @@
+Original prompt: oil stain on a dark surface
+Generated prompt 1: oil spill on a dark surface
+Generated prompt 2: liquid stain on a dark surface

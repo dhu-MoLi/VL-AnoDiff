@@ -1,0 +1,5 @@
+Sample: cashew
+Image: 070
+Original prompt: A small, light-colored spot with a slightly irregular shape and smooth texture
+Generated prompt 1: A cluster of tiny, dark spots with rough textures and irregular shapes
+Generated prompt 2: A linear scratch with a jagged edge, displaying a lighter color than the surrounding area

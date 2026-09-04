@@ -1,0 +1,3 @@
+Original prompt: cable with poke_insulation defect, showing a clear break in the insulation layer
+Generated prompt 1: cable with insulation damage, showing a visible defect
+Generated prompt 2: cable with insulation issue, displaying a noticeable flaw

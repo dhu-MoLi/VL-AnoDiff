@@ -1,0 +1,5 @@
+Sample: fryum
+Image: 000
+Original prompt: Dark brown, irregularly shaped spots with rough texture and high contrast against the light beige background
+Generated prompt 1: Small, dark brown spots with a smooth texture and low contrast against the light beige background
+Generated prompt 2: Larger, dark brown spots with a rough texture and high contrast against the light beige background

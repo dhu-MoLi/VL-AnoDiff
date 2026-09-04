@@ -1,0 +1,3 @@
+Original prompt: a dark, circular hole with rough edges in a wooden surface
+Generated prompt 1: a dark, irregular hole in a wooden surface
+Generated prompt 2: an uneven hole in a wooden surface

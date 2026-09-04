@@ -1,0 +1,5 @@
+Sample: capsules
+Image: 000
+Original prompt: A small, circular, white spot with a smooth texture and sharp edges
+Generated prompt 1: A larger, irregularly shaped white area with a rough texture and blurred edges
+Generated prompt 2: A cluster of small, circular white spots with varying sizes, smooth textures, and sharp edges

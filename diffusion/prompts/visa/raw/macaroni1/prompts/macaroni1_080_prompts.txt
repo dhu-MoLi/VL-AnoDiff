@@ -1,0 +1,5 @@
+Sample: macaroni1
+Image: 080
+Original prompt: A thin, elongated white streak with a slightly irregular edge, appearing to be a foreign material or residue on the surface.
+Generated prompt 1: A small, circular dark spot with a rough texture and uneven edges, suggesting a localized discoloration or contamination.
+Generated prompt 2: A short, curved line of a lighter color with a smooth texture and well-defined edges, indicative of a scratch or minor abrasion on the surface.

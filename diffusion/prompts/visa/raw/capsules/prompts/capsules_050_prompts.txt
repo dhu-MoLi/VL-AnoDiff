@@ -1,0 +1,5 @@
+Sample: capsules
+Image: 050
+Original prompt: A small, circular indentation with a smooth texture and a slight shadow, creating a subtle contrast against the glossy surface of the capsule.
+Generated prompt 1: A linear scratch with a rough texture and a high contrast against the glossy surface, extending across the capsule's surface.
+Generated prompt 2: A cluster of small, irregularly shaped bumps with a matte texture, creating a noticeable contrast against the glossy surface of the capsule.

@@ -1,0 +1,3 @@
+Original prompt: Glue residue on the inner rim of a bottle
+Generated prompt 1: Adhesive residue on the edge of a container
+Generated prompt 2: Sticky substance on the inner edge of a glass object

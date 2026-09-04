@@ -1,0 +1,5 @@
+Sample: fryum
+Image: 010
+Original prompt: A thin, white, linear scratch with a slightly jagged edge and high contrast against the background
+Generated prompt 1: Multiple thin, white, linear scratches with varying lengths and jagged edges, creating a pattern of high contrast against the background
+Generated prompt 2: A single, thicker, white, linear scratch with a smoother edge and moderate contrast against the background

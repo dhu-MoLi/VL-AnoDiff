@@ -1,0 +1,5 @@
+Sample: candle
+Image: 080
+Original prompt: A rough, irregularly shaped area with a dark brown color and a slightly raised texture, contrasting sharply with the surrounding smooth, light beige surface.
+Generated prompt 1: A small, circular indentation with a rough, textured interior and a darker shade compared to the surrounding smooth surface, creating a noticeable contrast.
+Generated prompt 2: A linear scratch with a jagged edge, displaying a lighter color than the surrounding material and disrupting the otherwise uniform texture.

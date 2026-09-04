@@ -1,0 +1,5 @@
+Sample: macaroni2
+Image: 040
+Original prompt: A small, dark spot with a rough texture and high contrast against the smooth, pale yellow background of the pasta piece
+Generated prompt 1: A cluster of fine, white specks scattered across the surface, creating a subtle contrast with the uniform color of the pasta
+Generated prompt 2: A linear scratch with a jagged edge, disrupting the otherwise smooth texture and causing a slight shadow effect

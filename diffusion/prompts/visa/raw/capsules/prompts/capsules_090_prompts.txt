@@ -1,0 +1,5 @@
+Sample: capsules
+Image: 090
+Original prompt: A small, white, irregularly shaped spot with a slightly rough texture and high contrast against the dark background
+Generated prompt 1: A larger, white, irregularly shaped spot with a smoother texture and high contrast against the dark background
+Generated prompt 2: A medium-sized, white, irregularly shaped spot with a grainy texture and moderate contrast against the dark background

@@ -1,0 +1,5 @@
+Sample: candle
+Image: 090
+Original prompt: A small, irregularly shaped area with a lighter color and a slightly rough texture, creating a contrast against the smooth surface of the candle
+Generated prompt 1: A larger, more irregularly shaped area with a lighter color and a rougher texture, standing out against the smooth surface of the candle
+Generated prompt 2: A small, circular area with a darker color and a smoother texture, blending in but still noticeable against the uniform surface of the candle

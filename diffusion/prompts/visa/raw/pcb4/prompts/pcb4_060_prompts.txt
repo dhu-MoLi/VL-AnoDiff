@@ -1,0 +1,5 @@
+Sample: pcb4
+Image: 060
+Original prompt: A small, irregularly shaped white spot with a slightly raised texture and a rough edge. The spot has a high contrast against the blue background and appears to be an anomaly in the otherwise uniform surface.
+Generated prompt 1: A dark brown stain with a smooth texture and well-defined edges. The stain has a low contrast against the blue background and appears to be a discoloration on the surface.
+Generated prompt 2: A black speck with a granular texture and jagged edges. The speck has a high contrast against the blue background and appears to be a foreign particle adhered to the surface.

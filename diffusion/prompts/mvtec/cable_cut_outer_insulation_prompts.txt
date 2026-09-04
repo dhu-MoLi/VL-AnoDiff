@@ -1,0 +1,3 @@
+Original prompt: cable with a cut outer insulation defect, showing exposed inner layers
+Generated prompt 1: inor Generalization Image Defect Prompt
+Generated prompt 2: cable with damaged outer insulation

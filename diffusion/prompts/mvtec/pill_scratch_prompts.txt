@@ -1,0 +1,3 @@
+Original prompt: The pill has a scratch defect with a clear, linear groove on its surface.
+Generated prompt 1: inor Generalization Image Defect Prompt
+Generated prompt 2: pill with a visible surface defect

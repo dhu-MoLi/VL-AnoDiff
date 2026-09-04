@@ -1,0 +1,5 @@
+Sample: macaroni2
+Image: 060
+Original prompt: A small, irregularly shaped fragment with a jagged edge and a high contrast against the background
+Generated prompt 1: A larger fragment with a more defined edge and a smoother texture, maintaining high contrast
+Generated prompt 2: Multiple smaller fragments scattered around, each with a rough texture and varying degrees of contrast

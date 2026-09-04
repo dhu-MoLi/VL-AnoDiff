@@ -1,0 +1,5 @@
+Sample: cashew
+Image: 080
+Original prompt: A small, irregularly shaped white area with a smooth texture and well-defined edges against a dark background
+Generated prompt 1: A larger, irregularly shaped white area with a slightly rough texture and less defined edges against a dark background
+Generated prompt 2: A small, irregularly shaped gray area with a smooth texture and well-defined edges against a dark background

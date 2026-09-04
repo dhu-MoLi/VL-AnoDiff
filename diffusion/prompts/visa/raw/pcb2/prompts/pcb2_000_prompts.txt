@@ -1,0 +1,5 @@
+Sample: pcb2
+Image: 000
+Original prompt: A thin, vertical white line with a high contrast against the dark background, smooth texture, and sharp edges
+Generated prompt 1: Multiple thin, horizontal white lines with varying lengths, high contrast against the dark background, smooth texture, and sharp edges
+Generated prompt 2: A cluster of small, round white spots with a slightly rough texture, moderate contrast against the dark background, and well-defined edges

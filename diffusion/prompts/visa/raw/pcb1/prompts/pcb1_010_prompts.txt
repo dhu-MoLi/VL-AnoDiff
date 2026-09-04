@@ -1,0 +1,5 @@
+Sample: pcb1
+Image: 010
+Original prompt: White, thin, linear scratches with a slight reflective quality and smooth texture
+Generated prompt 1: Short, white, linear marks with a rough texture and high contrast against the background
+Generated prompt 2: Small, white, circular spots with a matte texture and low contrast against the background

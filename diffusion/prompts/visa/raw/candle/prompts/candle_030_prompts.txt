@@ -1,0 +1,5 @@
+Sample: candle
+Image: 030
+Original prompt: A white, thin, and straight line with a slightly rough texture and high contrast against the dark background
+Generated prompt 1: A short, white, and curved line with a smooth texture and high contrast against the dark background
+Generated prompt 2: A long, white, and jagged line with a rough texture and high contrast against the dark background

@@ -1,0 +1,5 @@
+Sample: macaroni2
+Image: 000
+Original prompt: A small, irregularly shaped hole with rough edges and a slightly darker coloration around the perimeter
+Generated prompt 1: A larger, more elongated hole with smooth edges and a uniform darkening around the edges
+Generated prompt 2: Multiple smaller holes clustered together, each with jagged edges and a lighter coloration around the perimeter

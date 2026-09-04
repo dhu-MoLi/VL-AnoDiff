@@ -1,0 +1,5 @@
+Sample: macaroni1
+Image: 020
+Original prompt: A small, irregularly shaped fragment with a rough texture and a jagged edge. The fragment is pale in color with a slightly uneven surface.
+Generated prompt 1: A larger, more elongated fragment with a smoother texture and a less defined edge. The fragment has a consistent pale color with subtle variations in shading.
+Generated prompt 2: A cluster of smaller fragments with varying textures and edges. Some fragments have a rough texture while others are smoother, and the edges range from jagged to more rounded. The overall color is pale with slight variations.

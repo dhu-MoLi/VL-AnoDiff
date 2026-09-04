@@ -1,0 +1,79 @@
+{
+  "summary": {
+    "success": 67,
+    "failed": 0,
+    "skipped": 0
+  },
+  "by_sample": {
+    "bottle": {
+      "success": 3,
+      "failed": 0,
+      "skipped": 0
+    },
+    "cable": {
+      "success": 8,
+      "failed": 0,
+      "skipped": 0
+    },
+    "capsule": {
+      "success": 5,
+      "failed": 0,
+      "skipped": 0
+    },
+    "carpet": {
+      "success": 5,
+      "failed": 0,
+      "skipped": 0
+    },
+    "grid": {
+      "success": 5,
+      "failed": 0,
+      "skipped": 0
+    },
+    "hazelnut": {
+      "success": 4,
+      "failed": 0,
+      "skipped": 0
+    },
+    "leather": {
+      "success": 5,
+      "failed": 0,
+      "skipped": 0
+    },
+    "metal_nut": {
+      "success": 3,
+      "failed": 0,
+      "skipped": 0
+    },
+    "pill": {
+      "success": 7,
+      "failed": 0,
+      "skipped": 0
+    },
+    "tile": {
+      "success": 5,
+      "failed": 0,
+      "skipped": 0
+    },
+    "toothbrush": {
+      "success": 1,
+      "failed": 0,
+      "skipped": 0
+    },
+    "transistor": {
+      "success": 4,
+      "failed": 0,
+      "skipped": 0
+    },
+    "wood": {
+      "success": 5,
+      "failed": 0,
+      "skipped": 0
+    },
+    "zipper": {
+      "success": 7,
+      "failed": 0,
+      "skipped": 0
+    }
+  }
+}

@@ -1,0 +1,3 @@
+Original prompt: The zipper has a fabric_interior defect with a dark, irregularly shaped hole in the center.
+Generated prompt 1: inor Generalization Image Defect Prompt
+Generated prompt 2: The zipper has a fabric_interior defect with a noticeable hole.

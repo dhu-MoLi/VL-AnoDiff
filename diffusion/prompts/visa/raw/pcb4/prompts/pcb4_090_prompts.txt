@@ -1,0 +1,5 @@
+Sample: pcb4
+Image: 090
+Original prompt: Two small, rectangular areas with a complete loss of detail, appearing as blank white spaces against the dark background. The edges are sharp and well-defined, indicating a precise removal of content.
+Generated prompt 1: Multiple small, irregularly shaped areas with a complete loss of detail, appearing as blank white spaces against the dark background. The edges are somewhat jagged and uneven, suggesting a more random pattern of content removal.
+Generated prompt 2: A single, larger rectangular area with a complete loss of detail, appearing as a blank white space against the dark background. The edges are straight but slightly irregular, indicating a manual or imprecise removal of content.

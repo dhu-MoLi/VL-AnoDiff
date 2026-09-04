@@ -1,0 +1,5 @@
+Sample: pipe_fryum
+Image: 060
+Original prompt: A small, irregularly shaped hole with a rough texture and slightly darker edges compared to the surrounding material
+Generated prompt 1: A larger, more elongated tear with frayed edges and a lighter coloration at the center of the defect
+Generated prompt 2: Multiple small, round pits with a consistent texture and a slightly raised border around each pit

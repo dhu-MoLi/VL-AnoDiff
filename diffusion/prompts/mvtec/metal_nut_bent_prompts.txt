@@ -1,0 +1,3 @@
+Original prompt: a metal nut with a bent defect, showing a clear deformation on the side
+Generated prompt 1: a metal nut with a noticeable deformation
+Generated prompt 2: an industrial component with a bent defect

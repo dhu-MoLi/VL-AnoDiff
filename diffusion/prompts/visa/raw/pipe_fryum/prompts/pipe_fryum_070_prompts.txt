@@ -1,0 +1,5 @@
+Sample: pipe_fryum
+Image: 070
+Original prompt: A fine, linear scratch with a slightly reflective surface and a smooth texture, creating a subtle contrast against the matte background.
+Generated prompt 1: A series of parallel scratches with varying depths, each having a glossy finish that catches light differently, creating a pattern of high and low contrast areas.
+Generated prompt 2: Small, irregularly shaped pits scattered across the surface, each with a rough texture and a dull finish, causing a disruption in the uniformity of the material.

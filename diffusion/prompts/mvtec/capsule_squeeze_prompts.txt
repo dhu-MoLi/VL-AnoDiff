@@ -1,0 +1,3 @@
+Original prompt: The capsule has a squeeze defect with visible deformation and cracks on the surface.
+Generated prompt 1: inor Generalization Image Defect Prompt
+Generated prompt 2: The capsule has a defect with noticeable deformation.

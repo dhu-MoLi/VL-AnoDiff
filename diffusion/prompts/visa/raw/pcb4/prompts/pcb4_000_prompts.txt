@@ -1,0 +1,5 @@
+Sample: pcb4
+Image: 000
+Original prompt: The defect is characterized by a dark, irregularly shaped area with rough texture and high contrast against the surrounding blue background. The edges are jagged and uneven.
+Generated prompt 1: A light-colored, irregularly shaped patch with a smooth texture and low contrast against the surrounding blue background. The edges are slightly blurred and indistinct.
+Generated prompt 2: A small, circular spot with a glossy texture and medium contrast against the surrounding blue background. The edges are well-defined and sharp.

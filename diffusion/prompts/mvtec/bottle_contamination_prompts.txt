@@ -1,0 +1,3 @@
+Original prompt: The bottle has a contamination defect with a visible dark substance inside.
+Generated prompt 1: Bottle with contamination defect
+Generated prompt 2: Bottle with foreign substance inside

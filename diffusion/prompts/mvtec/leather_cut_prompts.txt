@@ -1,0 +1,3 @@
+Original prompt: a black leather circle with a large cut defect
+Generated prompt 1: black leather with a significant cut
+Generated prompt 2: leather circle with a large defect

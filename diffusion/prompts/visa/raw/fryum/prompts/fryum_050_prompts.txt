@@ -1,0 +1,5 @@
+Sample: fryum
+Image: 050
+Original prompt: A small, irregularly shaped area with a rough texture and a slightly darker color compared to the surrounding material, featuring a high contrast edge that stands out against the uniform background.
+Generated prompt 1: A larger, more elongated area with a similar rough texture but with a more diffuse edge, blending slightly into the surrounding material while maintaining a noticeable contrast.
+Generated prompt 2: A cluster of smaller, irregularly shaped areas with varying textures, some smooth and others rough, creating a patchwork effect with edges that are both sharp and blurred, contributing to a varied contrast across the defect.
